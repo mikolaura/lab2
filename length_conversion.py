@@ -1,0 +1,12 @@
+VERSHOK = 4.445
+PYD = VERSHOK * 4
+ARSHIN = PYD * 4
+SAGNI = ARSHIN * 3
+VERSTA = SAGNI * 500 / 100000
+
+print(VERSHOK)
+
+print(PYD)
+print(ARSHIN)
+print(SAGNI)
+print(VERSTA)

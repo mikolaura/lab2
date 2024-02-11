@@ -1,0 +1,20 @@
+def one_liter(gustin):
+    liter_to_cm3 = 1 *1000
+    print(gustin * liter_to_cm3)
+
+one_liter(0.0012)
+one_liter(0.67)
+one_liter(1)
+one_liter(1.025)
+one_liter(1.03)
+one_liter(2.6)
+one_liter(2.7)
+one_liter(7.8)
+one_liter(10.5)
+one_liter(13.6)
+one_liter(18.9)
+one_liter(21.4)
+one_liter(13)
+one_liter(3.3)
+one_liter(150)
+one_liter(2.8*10**14)
